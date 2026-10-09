@@ -1,0 +1,17 @@
+{
+  "name": "personal",
+  "owner": {
+    "name": "Max Nedelchev"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugins."
+  },
+  "plugins": [
+    {
+      "name": "snaketube-toolkit",
+      "source": "./plugins/snaketube-toolkit",
+      "description": "Personal instructions and skills: answer format injected into every session.",
+      "version": "0.1.0"
+    }
+  ]
+}
