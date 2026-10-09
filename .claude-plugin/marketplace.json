@@ -1,5 +1,5 @@
 {
-  "name": "personal",
+  "name": "nedelchev",
   "owner": {
     "name": "Max Nedelchev"
   },
@@ -8,8 +8,8 @@
   },
   "plugins": [
     {
-      "name": "snaketube-toolkit",
-      "source": "./plugins/snaketube-toolkit",
+      "name": "workbench",
+      "source": "./plugins/workbench",
       "description": "Personal instructions and skills: answer format injected into every session.",
       "version": "0.1.0"
     }
