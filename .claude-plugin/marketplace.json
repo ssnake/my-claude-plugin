@@ -10,8 +10,8 @@
     {
       "name": "workbench",
       "source": "./plugins/workbench",
-      "description": "Personal instructions and skills: answer format injected into every session.",
-      "version": "0.1.0"
+      "description": "Personal instructions and skills: answer format injected into every session, FOP tax rows from Wise.",
+      "version": "0.2.0"
     }
   ]
 }

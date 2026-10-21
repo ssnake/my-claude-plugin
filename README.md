@@ -21,6 +21,7 @@ For local development, point the marketplace at the checkout instead:
 | --- | --- |
 | `plugins/workbench/instructions/*.md` | Always-on instructions. A SessionStart hook concatenates every file here into the session context, like a global `CLAUDE.md`. |
 | `plugins/workbench/hooks/` | The SessionStart hook (requires `jq`). |
+| `plugins/workbench/skills/fop-tax-rows/` | Copy-paste rows for a Ukrainian FOP group 3 tax sheet from Wise business income, with NBU rates. Needs `WISE_API_TOKEN`; optional `WISE_PROFILE_ID`, `FOP_SHEET_DECIMAL`. |
 
 ## Extending
 
